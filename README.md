@@ -58,7 +58,9 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge" height="40" alt="kotlin logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+<img src="https://camo.githubusercontent.com/339087f3750f862af7305364d7e08d992f50ef4790b2e5df06fd680402f305e8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a65747061636b253230436f6d706f73652d3432383546342e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d4a65747061636b2d436f6d706f7365266c6f676f436f6c6f723d7768697465" height="40" alt="Jetpack logo"  />
+  <img width="12" />
+  <img src="https://camo.githubusercontent.com/6d9ad4becc2d73ac5cefacc1370a6c37458f272a553046ea5e2b8351ea185747/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176612d2532334544384230302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="40" alt="firebase logo"  />
   <img width="12" />

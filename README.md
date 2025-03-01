@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">Will be adding featuresd Project</p>
+<p align="left">Will be adding featured Project</p>
 
 ###
 

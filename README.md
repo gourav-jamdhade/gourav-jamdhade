@@ -17,8 +17,18 @@
 <h2 align="left">Featured Project</h2>
 
 ###
+### [Owl Read Mobile App](https://github.com/gourav-jamdhade/Owl-Read): 
+An audiobook listener app built using Kotlin and Jetpack Compose.
+* #### Key Features:
+  * Pagination for listing users fetched from an API.
+  * View detailed Audiobook list.
+  * View every chapter by clicking on the audiobook.
+  * Creates cache to save time for chapter listing.
+  * Supports background play with Audio Focus.
 
-<p align="left">Will be adding featured Project</p>
+* Technologies Used: Kotlin, Jetpack Compose, MVVM Architecture, Retrofit, Paging, Glide, WorkManager, Shared Preferences, AudioFocus.
+
+
 
 ###
 

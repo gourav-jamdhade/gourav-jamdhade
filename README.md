@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am a passionate Android developer who is building applications in Jetpack Compose and Exploring Kotlin Multiplatform.</p>
+<p align="left">I am a passionate Android developer who is building applications in Jetpack Compose</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">• Creating android apps to deepen my understanding of Android and Jetpack Compose.<br>• Exploring Kotlin Multiplatform to create cross platform applications.</p>
+<p align="left">• Creating android apps to deepen my understanding of Android and Jetpack Compose.</p>
 
 ###
 
